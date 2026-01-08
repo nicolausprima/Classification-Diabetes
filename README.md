@@ -17,30 +17,30 @@ The dataset used in this project was obtained from the Kaggle Diabetes Dataset, 
 
 2. Data Preprocessing
 
-  - Handling missing values
+      - Handling missing values
 
-  - Encoding categorical data
+      - Encoding categorical data
 
-  -  Normalizing/standardizing numerical features
+      -  Normalizing/standardizing numerical features
 
 3. Modeling
 
-  Several machine learning algorithms are used and their performance is compared, namely:
+      Several machine learning algorithms are used and their performance is compared, namely:
 
-- Support Vector Machine (SVM)
+    - Support Vector Machine (SVM)
 
-- Random Forest Classifier
+    - Random Forest Classifier
 
-- XGBoost Classifier
+    - XGBoost Classifier
 
 4. Model Evaluation
 
-Model performance is evaluated using the following metrics:
+    Model performance is evaluated using the following metrics:
 
-- Accuracy
+    - Accuracy
 
-- Confusion Matrix
+    - Confusion Matrix
 
-- ROC Curve (Multiclass)
+    - ROC Curve (Multiclass)
 
-- Learning Curve
+    - Learning Curve
