@@ -44,3 +44,20 @@ The dataset used in this project was obtained from the Kaggle Diabetes Dataset, 
     - ROC Curve (Multiclass)
 
     - Learning Curve
+
+## 🎯 Project Objectives
+
+1. Build an accurate diabetes classification model.
+
+2. Compare the performance of several machine learning algorithms.
+
+3. Understand the influence of medical features on diabetes diagnosis.
+
+## 📁 Dataset
+
+Source: Kaggle – Diabetes Dataset
+
+The dataset is secondary and is used only for learning and analysis purposes.
+
+📌 Dataset link:
+https://www.kaggle.com/datasets/imtkaggleteam/diabetes
