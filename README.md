@@ -9,11 +9,11 @@ The dataset used in this project was obtained from the Kaggle Diabetes Dataset, 
 ## 📊 Steps Taken
 1. Exploratory Data Analysis (EDA)
 
-  - Analyzing data distribution
+    - Analyzing data distribution
 
-  - Detecting missing values
+    - Detecting missing values
 
-  - Understanding the characteristics and relationships between features
+    - Understanding the characteristics and relationships between features
 
 2. Data Preprocessing
 
